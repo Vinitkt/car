@@ -1,0 +1,391 @@
+.navbar-default {
+background-color: #100606;
+border-color: #1d1b1b;
+
+}
+.banner{
+  background: url('image/bgimg.jpg') no-repeat center top;
+  background-size:cover;
+  min-height: 580px;
+  position: relative;
+}
+
+.abcd{
+
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.firsttext{
+	text-align: center;
+	color: white;
+
+}
+.firsttext-padding{
+	padding: 20%;
+}
+
+.browse{
+background-color: white;
+color: black;
+border-color: white;
+height: 50px;
+width: 180px;
+margin-top: 100px;
+
+}
+.buy{
+	background-color:rgba(0, 0, 0, -0.3);
+color: #ff5600;
+border-color: #ff5600;
+height: 50px;
+width: 180px;
+margin-top: 100px;
+
+}
+
+.row{
+	margin: 0px;
+}
+.bgcolor{
+	background-color: rgba(214, 201, 201, 0.7);
+	padding: 4% 5%;
+}
+.textsize{
+	font-size: -webkit-xxx-large;
+	text-align: -webkit-right;
+
+}
+.loremtext{
+	text-align: -webkit-right;
+	color: gray;
+	font-family: sans-serif;
+	font-size: 31px;
+
+}
+
+.luxury{
+  background: url('image/luxury.jpg') no-repeat center top;
+  background-size:cover;
+    position: relative;
+}
+
+.abcde{
+
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.secondtext{
+	color: white;
+
+}
+.secondtext-padding{
+	padding: 20%;
+}
+
+.about{
+  background-color: #ff5600;
+  color: white;
+  border-color: #ff5600;
+  height: 75px;
+  width: 250px;
+  float: right;
+  font-size: xx-large;
+}
+.vl {
+    border-right: 6px solid  #ff5600;
+    height: 200px;
+}
+
+.thirdtext{
+	text-align: center;
+}
+
+.update{
+	font-size: xx-large;
+	color: gray;
+	font-family: sans-serif;
+}
+
+.recent{
+	font-size:30px;
+}
+
+
+.image {
+    float: left;
+}
+.bgcolor1{
+	background-color: #ec704a;
+}
+
+.visiting{
+	color: white;
+}
+
+.visitingbutton{
+  background-color:#ec704a;
+  color: white;
+  border-color: 1px solid white;
+  height: 40px;
+  width: 170px;
+
+}
+
+.latest{
+	text-align: center;
+	font-size:30px;
+}
+.latesttext{
+color: gray;
+font-family: sans-serif;
+text-align: center;
+font-size: x-large;
+
+
+}
+
+.latetext{
+    color: gray;
+    font-family: sans-serif;
+    font-size: x-large;
+
+}
+.banner1{
+  background: url('image/bgimg.jpg') no-repeat center top;
+  background-size:cover;
+  min-height: 600px;
+  position: relative;
+  margin-top: 5%;
+
+}
+.abcdef{
+	background-color: rgba(0, 0, 0, 0.7);
+	min-height: 600px;
+
+}
+
+.banner1text{
+	text-align: center;
+	color:white;
+	font-size: 40px;
+	padding: 3%;
+	
+}
+
+.kucchv{
+	font-size: x-large;
+	color: gray;
+}
+
+.nine928{
+color: white;
+font-size: 40px;
+margin-left: 15px;
+
+
+}
+.sold{
+color: #b1a9a9;
+font-size: 20px;
+
+
+}
+.car{
+color: white;
+font-size: 30px;
+padding: 0% 10%;
+
+}
+.user{
+color: white;
+font-size: 30px;
+padding: 0% 10%;
+
+}
+.money{
+color: white;
+font-size: 30px;
+padding: 0% 20%;
+
+}
+.alien{
+color: white;
+font-size: 30px;
+padding: 0% 10%;
+
+}
+
+.trust{
+	text-align: center;
+	color:black;
+	font-size: 40px;
+	padding: 3%;
+	
+}
+.trustbg{
+	background-color: rgba(0, 0, 0, 0.7);
+	
+}
+
+.bgcolor2{
+	background-color: rgb(6, 5, 10);
+	color: white;
+	margin-top: 100px;
+}
+
+.lorem{
+font-size:large;
+color: gray;
+font-family: sans-serif;
+}
+
+.icons{
+	font-size: x-large;
+	width: 40px;
+	color: gray;
+}
+
+.twitter{
+	font-size: x-large;
+	width: 50px;
+	color:white;
+}
+
+.hashtag{
+    font-family: sans-serif;
+}
+.localtion{
+	font-size: x-large;
+	width: 50px;
+	color:white;
+}
+
+.call{
+	font-size: x-large;
+	width: 50px;
+	color:white;
+}
+.contact{
+    font-family: sans-serif;
+    color: gray;
+
+}
+
+.envelope{
+	font-size: x-large;
+	width: 50px;
+	color:white;
+}
+
+.clock{
+	font-size: x-large;
+	width: 50px;
+	color:white;
+}
+.no-padding{
+	padding: 0px;
+}
+.no-right-padding{
+	padding-right: 0px;
+}
+.no-left-padding{
+	padding-left: 0px;
+}
+
+.unique{
+	font-size: 
+}
+
+
+@media (min-width:320px) and (max-width:767px) {
+	.loremtext{
+		font-size: 13px;
+	}
+
+.latesttext{
+	font-size: 14px;
+}
+
+.latetext{
+	font-size: 13px;
+}
+.kucchv{
+	font-size: 13px;
+}
+
+.h1, h1{
+	font-size: 11px;
+}
+.recent{
+	font-size: 13px;
+}
+
+.update{
+	font-size: 13px;	
+}
+.trust{
+	font-size: 23px;
+
+}
+.lorem{
+	font-size: 14px;
+
+}
+.textsize{
+	font-size: initial;
+}
+.vl{
+	height: 40px;
+
+}
+.about{
+	height: 50px;
+
+}
+
+.vettel{
+	font-size: 19px;
+
+}
+
+.banner1text{
+	font-size: 35px;
+}
+.latest{
+	font-size: 28px;
+
+}
+
+.unique{
+	font-size: smaller;
+
+}
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+	.visiting{
+		font-size: large;
+	}
+.loremtext{
+	font-size: initial;
+}
+.fs-26{
+	font-size: 26px;
+}
+
+.textsize{
+	font-size: xx-large;
+}
+
+.latesttext{
+	font-size: 17px;
+}
+.latetext{
+	font-size: 13px;
+
+}
+.vettel{
+	font-size: 19px;
+}
+
+}
